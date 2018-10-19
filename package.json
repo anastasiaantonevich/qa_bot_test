@@ -1,0 +1,26 @@
+{
+  "name": "slack_bot",
+  "version": "1.0.0",
+  "description": "Slack bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": "v10.11.0"
+  },
+  "author": "Robert",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grobert11/QA_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grobert11/QA_bot/issues"
+  },
+  "homepage": "https://github.com/grobert11/QA_bot#readme"
+}
