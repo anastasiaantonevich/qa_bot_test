@@ -15,7 +15,7 @@ require('http').createServer().listen(process.env.PORT || 5000).on('request', fu
     res.end('')
 });
 let reqTimer = setTimeout(function wakeUp() {
-    request("https://nameless-gorge-19527.herokuapp.com", function() {
+    request("https://qaqaqa.herokuapp.com", function() {
        console.log("WAKE UP DYNO");
     });
     return reqTimer = setTimeout(wakeUp, 1200000);
