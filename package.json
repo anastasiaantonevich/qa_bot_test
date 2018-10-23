@@ -9,7 +9,7 @@
   "engines": {
     "node": "v10.11.0"
   },
-  "author": "Robert",
+  "author": "anastasiaantonevich",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grobert11/QA_bot.git"
+    "url": "git+https://github.com/anastasiaantonevich/qa_bot.git"
   },
   "bugs": {
-    "url": "https://github.com/grobert11/QA_bot/issues"
+    "url": "https://github.com/anastasiaantonevich/qa_bot/issues"
   },
-  "homepage": "https://github.com/grobert11/QA_bot#readme"
+  "homepage": "https://github.com/anastasiaantonevich/qa_bot#readme"
 }
